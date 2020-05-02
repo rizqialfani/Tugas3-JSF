@@ -4,17 +4,17 @@ Learn Expression Language and Validating User Input with JSF (JavaServer Faces) 
 ## Overview
 ### Expression Language
 <p align='center'>
-<img src='https://raw.githubusercontent.com/rizqialfani01/Tugas3-JSF/master/screenshot/expression-language/01.png' width='900'>
+<img src='https://raw.githubusercontent.com/rizqialfani01/Tugas3-JSF/master/screenshot/expression-language/01.png' width='750'>
 </p>
 
 ### Validation 1
 <p align='center'>
-<img src='https://raw.githubusercontent.com/rizqialfani01/Tugas3-JSF/master/screenshot/validation-1/10.png' width='900'>
+<img src='https://raw.githubusercontent.com/rizqialfani01/Tugas3-JSF/master/screenshot/validation-1/10.png' width='750'>
 </p>
 
 ### Validation 2
 <p align='center'>
-<img src='https://raw.githubusercontent.com/rizqialfani01/Tugas3-JSF/master/screenshot/validation-2/29.png' width='900'>
+<img src='https://raw.githubusercontent.com/rizqialfani01/Tugas3-JSF/master/screenshot/validation-2/29.png' width='750'>
 </p>
 
 ## Source
