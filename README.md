@@ -1,7 +1,4 @@
-# Expression Languge and Validating User Input
-Tugas 3 - Rekayasa Software Berbasis Komponen 2020
-
-Source by: https://coreservlets.com/JSF-Tutorial/jsf2/
+# Exercise 3 - Expression Languge and Validating User Input
 
 
 > Expression Language
@@ -15,3 +12,6 @@ Source by: https://coreservlets.com/JSF-Tutorial/jsf2/
 > Validation 2
 
 ![alt text](https://raw.githubusercontent.com/rizqialfani01/Tugas3-JSF/master/screenshot/validation-2/29.png "Project Logo")
+
+## Source
+Thanks to Coreservlets for great [expression language](http://www.coreservlets.com/JSF-Tutorial/jsf2/#EL), [validation 1](http://www.coreservlets.com/JSF-Tutorial/jsf2/#Validation-1), and [validation 2](http://www.coreservlets.com/JSF-Tutorial/jsf2/#Validation-2) tutorial.
